@@ -268,4 +268,4 @@ Màn hình hàng chờ TA trong `prototype/index.html` cho thấy báo cáo ngu�
 - Prototype/thiết kế phản hồi: **[ĐIỀN AI sẽ làm gì, hiển thị gì và tool nào được/không được gọi]**
 - Có thay đổi quyết định sau demo không: **[CÓ/KHÔNG — GIẢI THÍCH]**
 
-**Phân công trình bày:** cá nhân thực hiện toàn bộ phần giới thiệu, hai luồng prototype, quyết định mức tự chủ và trả lời ca lạ; hình thức làm cá nhân đã được TA chấp thuận.
+**Phân công trình bày:** cá nhân thực hiện toàn bộ phần giới thiệu, hai luồng prototype, quyết định mức tự chủ và trả lời ca lạ.
