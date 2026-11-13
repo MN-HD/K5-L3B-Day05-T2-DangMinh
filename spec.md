@@ -1,7 +1,7 @@
 # Bài nộp LAB5 — T2 Giáo dục · Nhóm DangMinh
 
 **Lớp:** L3B · **Track:** T2 — Giáo dục  
-**Hình thức:** Cá nhân, đã được TA chấp thuận làm độc lập.
+**Hình thức:** Cá nhân.
 
 | Họ và Tên | Mã Học Viên | Việc đã làm |
 |---|---|---|
