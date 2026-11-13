@@ -7,8 +7,6 @@
 |---|---|---|
 | Đặng Nguyễn Nhật Minh | **2A202604118** | Phân tích đề và dữ liệu T2; xây dựng kịch bản rủi ro; thiết kế UX khi AI sai; quyết định mức tự chủ; xây dựng và kiểm thử prototype; chuẩn bị demo và bài nộp. |
 
-> **Việc cần hoàn tất trước khi nộp:** thay phần mã học viên trong ngoặc vuông bằng mã chính xác trên thẻ sinh viên / hệ thống môn học. Không để placeholder này trong bản cuối.
-
 ## §1. Lát cắt & phạm vi
 
 ### Lát cắt
