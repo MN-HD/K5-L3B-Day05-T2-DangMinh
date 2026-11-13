@@ -1,6 +1,6 @@
 # K5-L3B-Day05-T2-DangMinh — LAB5 T2 Giáo dục
 
-Bài nộp cá nhân cho LAB5 — Thiết kế sản phẩm AI: UX và mức độ tự chủ, lớp L3B, track T2 (Giáo dục). Hình thức làm bài cá nhân đã được TA chấp thuận.
+Bài nộp cho LAB5 — Thiết kế sản phẩm AI: UX và mức độ tự chủ, lớp L3B, track T2 (Giáo dục).
 
 ## Các tệp trong dự án
 
